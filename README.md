@@ -6,7 +6,5 @@ Apaixonado por programar, sou desenvolvedor, com mais de 20 anos de experiência
 
 ### CEO/CTO DA [CASA DOS SITES](https://www.casadossites.com)
 
-<br>
-
 ## Expertise
 HTML5 / CSS / OOCSS / JAVASCRIPT / JQUERY / REACT NATIVE / PHP / OOPHP / MYSQL /  
