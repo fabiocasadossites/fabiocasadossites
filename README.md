@@ -4,7 +4,7 @@
 Apaixonado por programar, sou desenvolvedor, com mais de 20 anos de experiência. Amo o que faço, por isso me dedico a cada projeto como se fosse meu. Me tornei um eterno aprendiz nessa área, assumo que respeito muito meus mentores e professores.
 <br>
 
-### CEO/CTO da [CASA DOS SITES](https://www.casadossites.com)
+### CEO/CTO DA [CASA DOS SITES](https://www.casadossites.com)
 
 <br>
 
