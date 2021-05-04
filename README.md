@@ -3,7 +3,7 @@
 # 🖖 Olá sou Fabio Augusto da Silva Amaral
 
 <p align="center">
-<a href="https://linkedin.com/in/fabio-augusto-da-silva-amaral-8483b871"><img src="https://img.shields.io/badge/-fabio-augusto-da-silva-amaral-8483b871?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/fabio-augusto-da-silva-amaral-8483b871"><img src="https://img.shields.io/badge/-Fabio Augusto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:casadossitesam@gmail.com"><img src="https://img.shields.io/badge/-casadossitesam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fabio_asa_"><img src="https://img.shields.io/badge/-@fabio_asa_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
