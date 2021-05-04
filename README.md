@@ -7,6 +7,9 @@ Apaixonado por programar, sou desenvolvedor, com mais de 20 anos de experiência
 
 ### CEO/CTO DA [CASA DOS SITES](https://www.casadossites.com)
 
+## Expertise
+HTML5 / CSS / OOCSS / JAVASCRIPT / JQUERY / REACT NATIVE / PHP / OOPHP / MYSQL /  
+
 ### GitHub Analytics
 
 <p align="center">
@@ -15,8 +18,3 @@ Apaixonado por programar, sou desenvolvedor, com mais de 20 anos de experiência
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocasadossites&show_icons=true" alt="fabiocasadossites" />
 </a>
 </p>
-
-<br><br>
-
-## Expertise
-HTML5 / CSS / OOCSS / JAVASCRIPT / JQUERY / REACT NATIVE / PHP / OOPHP / MYSQL /  
