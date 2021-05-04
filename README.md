@@ -15,7 +15,8 @@ Apaixonado por programar, sou desenvolvedor, com mais de 20 anos de experiência
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fabiocasadossites&show_icons=true" alt="fabiocasadossites" />
 </a>
 </p>
-<br>
+
+<br><br>
 
 ## Expertise
 HTML5 / CSS / OOCSS / JAVASCRIPT / JQUERY / REACT NATIVE / PHP / OOPHP / MYSQL /  
