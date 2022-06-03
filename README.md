@@ -13,7 +13,7 @@
 ## Goals
 
 - Current objective **to live and work in Portugal**
-- I’m currently learning **AWS Services, Nodejs, Elixir,  React-Native, GraphQL and Clean Code**
+- I’m currently learning **Flutter, AWS Services, Nodejs, Elixir,  React-Native, GraphQL and Clean Code**
 - I’m looking to collaborate on **Open Source Projects**
 - Trying to write articles on my [Linkedin](https://www.linkedin.com/in/fabioasa/)
 
