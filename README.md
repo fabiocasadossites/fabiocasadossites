@@ -6,13 +6,14 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fabiocasadossites&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-fabiocasadossites.vercel.app/api/top-langs/?username=fabiocasadossites&show_icons=true&theme=radical&layout=compact" />
+<img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=fabiocasadossites&show_icons=true&theme=radical&mode=weekly" alt="fabiocasadossites" />
+
  </div>
 
 ## My Skills
 
 #### I'm an expert:
-![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-545967?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Jquery](https://img.shields.io/badge/jquery-20232A?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
@@ -52,7 +53,7 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.fabioaugusto.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+<a href="https://www.fabioaugusto.dev" target="_blank"><img src="https://img.shields.io/badge/website-20232A?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 <a href="https://api.whatsapp.com/send/?phone=5592992483522&text&type=phone_number&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fabioasa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
