@@ -53,7 +53,6 @@ My passion goes beyond technical development; I also love managing projects. I a
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-545967?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
-&nbsp;
 
 ## Contacts:
 
