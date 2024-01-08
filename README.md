@@ -9,11 +9,11 @@ Constantly evolving, I have led teams and managed several projects throughout my
 
 My passion goes beyond technical development; I also love managing projects. I am ready to apply my vast experience and passion to new challenges.</p>
 &nbsp;
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:150px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fabiocasadossites&theme=radical&mode=weekly" />
 <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=fabiocasadossites&show_icons=true&theme=radical&mode=weekly" alt="fabiocasadossites" />
 </div>
-&nbsp;
+
 ## My Skills
 
 #### I'm an expert:
@@ -64,10 +64,12 @@ My passion goes beyond technical development; I also love managing projects. I a
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff060a&height=120&section=footer"/>
 
+<div  align="center">
 <img align="center" width=20% src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif"/>
 <img align="center" width=20% src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif"/>
 <img align="center" width=20% src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
 <img align="center" width=20% src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif"/>
+</div>
 
 
 <!-- # 🖖 Hi, I'm Fabio Augusto da Silva Amaral
