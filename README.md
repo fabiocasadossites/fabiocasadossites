@@ -1,6 +1,6 @@
 
 # 🖖 Hi, I'm Fabio Augusto da Silva Amaral
-
+&nbsp;
 <p align="center"><b>I ❤️ programming, I'm a Full Stack developer</b></p>&nbsp;
 
 <p>Full Stack Developer with over 25 years of experience, specializing in PHP, MySQL and PostgreSQL.
@@ -12,9 +12,8 @@ My passion goes beyond technical development; I also love managing projects. I a
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fabiocasadossites&theme=radical&mode=weekly" />
 <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=fabiocasadossites&show_icons=true&theme=radical&mode=weekly" alt="fabiocasadossites" />
-
- </div>
-
+</div>
+&nbsp;
 ## My Skills
 
 #### I'm an expert:
