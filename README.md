@@ -9,7 +9,7 @@ Constantly evolving, I have led teams and managed several projects throughout my
 
 My passion goes beyond technical development; I also love managing projects. I am ready to apply my vast experience and passion to new challenges.</p>
 &nbsp;
-<div  align="center" style="margin-bottom:150px">
+<div  align="center" style="margin-bottom:350px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=fabiocasadossites&theme=radical&mode=weekly" />
 <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=fabiocasadossites&show_icons=true&theme=radical&mode=weekly" alt="fabiocasadossites" />
 </div>
