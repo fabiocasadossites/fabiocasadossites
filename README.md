@@ -14,38 +14,38 @@
 
 #### I'm an expert:
 ![Git](https://img.shields.io/badge/git-545967?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Jquery](https://img.shields.io/badge/jquery-20232A?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Json](https://img.shields.io/badge/json-20232A?style=for-the-badge&logo=json&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/github-545967?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/php-545967?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Jquery](https://img.shields.io/badge/jquery-545967?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Json](https://img.shields.io/badge/json-545967?style=for-the-badge&logo=json&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-545967?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/tailwind-545967?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-545967?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-545967?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/mysql-545967?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-545967?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### I am full:
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-20232A?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-545967?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-545967?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/next%20js-545967?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-545967?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Graphql](https://img.shields.io/badge/graphql-545967?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-545967?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 #### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/GO-20232A?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-20232A?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-545967?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/GO-545967?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-545967?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-545967?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-545967?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
 #### Workstation Tools:
-![VScode](https://img.shields.io/badge/vscode-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-20232A?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/trello-20232A?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-545967?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-545967?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-545967?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/trello-545967?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-545967?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -53,7 +53,7 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.fabioaugusto.dev" target="_blank"><img src="https://img.shields.io/badge/website-20232A?style=for-the-badge&logo=About.me&logoColor=white">
+<a href="https://www.fabioaugusto.dev" target="_blank"><img src="https://img.shields.io/badge/website-545967?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 <a href="https://api.whatsapp.com/send/?phone=5592992483522&text&type=phone_number&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fabioasa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
